@@ -1,0 +1,8 @@
+[package]
+authors = ["Cristi Cobzarenco <cristi.cobzarenco@gmail.com>"]
+name = "treebank-tokenizer"
+version = "0.1.0"
+
+[dependencies]
+fnv = "1.0.2"
+regex = "0.1.71"
